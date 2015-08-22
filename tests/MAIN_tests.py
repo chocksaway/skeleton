@@ -9,3 +9,6 @@ def teardown():
 
 def test_basic():
     print "I RAN!"
+
+def test_another_test():
+    print "I RAN!"
