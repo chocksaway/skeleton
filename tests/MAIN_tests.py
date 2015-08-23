@@ -1,6 +1,3 @@
-from nose.tools import *
-import MAIN
-
 def setup():
     print "SETUP!"
 
